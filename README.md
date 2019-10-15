@@ -10,6 +10,12 @@ The Fall Guy Production Logo Animation
 
 ## Rendered Animation...
 
+### GIF
+
+![Preview picture](Samples/FallGuySample.gif "Preview GIF of Fall Guy Logo...")
+
+### Movie
+
 ![Click here for file link and choose display raw there...](Samples/FallGuySample.mp4 "Rendered animation sample...")
 
 ## How to convert rendered animation images to a movie
